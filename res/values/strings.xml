@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Từ Điển Danh Ngôn</string>
+    <string name="app_title">Từ Điển Danh Ngôn</string>
+    
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_about">Thông tin</string>
+    
+    <string name="about">Thông tin</string>
+    <string name="about_text_version">Phiên bản</string>
+    <string name="about_text1">Ứng dụng được viết bởi</string>
+    <string name="about_text2">Website: </string>
+    <string name="about_text3">Email hỗ trợ: </string>
+    <string name="about_app_author"><B>€yber$oft Team</B></string>
+    <string name="about_text_website">http://cyberso.workpress.com</string>
+    <string name="about_text_email">cybersoft.team@gmail.com</string>
+    <string name="about_button_ok">OK</string>
+    
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="ok">OK</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Successfully posted</string>
+    <string name="error">Error</string>
+    <string name="status_update">Updating status for %1$s at %2$s</string>
+    <string name="app_id">290273901113193</string>
+    
+    <string name="alert_error_title">Error</string>
+    <string name="alert_error_message">Please login via Facebook</string>
+    <string name="alert_error_positiveButton">OK</string>
+    <string name="alert_comfirm_message">Post to facebook ?</string>
+    <string name="alert_confirm_title">Comfirm</string>
+    <string name="alert_comfirm_positiveButton">OK</string>
+    <string name="alert_confirm_negative">Cancel</string>
+    <string name="widget_button_desc_random">Random</string>
+    <string name="widget_button_desc_favourite">Add this saying to favourite list</string>
+    <string name="widget_text_english">E</string>
+    <string name="widget_text_vietnamese">V</string>
+    <string name="widget_text_author">None</string>
+    <string name="widget_text_saying">None</string>
+    <string name="widget_text_day">NONE</string>
+    <string name="widget_text_date">None</string>
+    <string name="button_desc_share">Up to wall the saw via Facebook </string>
+    <string name="button_desc_other_share">Share to socials</string>
+    <string name="button_desc_love">Mark the saw which you favourite</string>
+
+    <string name="share_other">Select an application to share</string>
+
+</resources>
